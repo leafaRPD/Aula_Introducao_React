@@ -1,0 +1,29 @@
+body {
+    background: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(95, 94, 94);
+}
+
+p1{
+    color: rgb(170, 168, 168);
+}
+
+.center{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 31%;
+  }
+
+  .centerFooter{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+  }
