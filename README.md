@@ -29,3 +29,6 @@ To view the replicated website, follow the steps below:
 ## License
 
 This project is licensed under the MIT License.
+
+## Print
+![image](https://github.com/leafaRPD/Aula_Introducao_React/assets/109984481/eb8f03d1-c93a-447d-8a5a-78ea0edf1e44)
