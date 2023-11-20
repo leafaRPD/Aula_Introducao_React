@@ -1,10 +1,6 @@
 # ConnectFlight Replica
 
 ## Description
-This project is an exercise to replicate the website "O seu próximo destino pode estar aqui..." - a platform offering a selection of comprehensive travel packages for your vacations. The website, named ConnectFlight, provides national and international travel packages that include flights, hotels, breakfast, and even travel insurance, all at competitive prices.
-# ConnectFlight Replica
-
-## Description
 
 This project is a replication exercise of the website "O seu próximo destino pode estar aqui..." - a platform offering a selection of comprehensive travel packages for your vacations. The website, named ConnectFlight, provides national and international travel packages that include flights, hotels, breakfast, and even travel insurance, all at competitive prices.
 
